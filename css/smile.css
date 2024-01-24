@@ -1,0 +1,26 @@
+body{
+  box-sizing: border-box;
+}
+section{
+  width: 70%;
+  float: left;  
+}
+aside{
+  background-color: aquamarine;
+  float: right;
+}
+footer{
+  float: left;
+  background-color: black;
+  color: azure;
+}
+img{
+  width: 600px;
+}
+h2, h3{
+  text-align: center;
+}
+.white{
+  color: aliceblue;
+}
+  
